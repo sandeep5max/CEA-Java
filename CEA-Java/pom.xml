@@ -8,10 +8,10 @@
 		<version>2.1.1.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.CEA</groupId>
-	<artifactId>CloudServices</artifactId>
+	<groupId>com.CloudServices</groupId>
+	<artifactId>CEA-Java</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>CloudServices</name>
+	<name>CEA-Java</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
